@@ -21,12 +21,13 @@ jobs:
       - name: Install BPF tools
         run: sudo apt-get update && sudo apt-get install -y llvm clang pkg-config
 
-      - name: Install Solana CLI and Build BPF program
+      - name: Build Solana BPF program in Docker
         run: |
-          curl --insecure -sSfL https://release.solana.com/v1.18.0/install | sh -s
-          export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
-          solana --version
-          solana program build ./custom_write_program
+          docker run --rm -v ${{ github.workspace }}:/work -w /work solanalabs/solana:v1.18.0 bash -c "\
+            apt-get update && apt-get install -y llvm clang pkg-config && \
+            solana --version && \
+            solana program build ./custom_write_program \
+          "
 
       - name: Upload BPF artifact
         uses: actions/upload-artifact@v4
