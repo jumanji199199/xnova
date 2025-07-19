@@ -21,10 +21,10 @@ jobs:
       - name: Install BPF tools
         run: sudo apt-get update && sudo apt-get install -y llvm clang pkg-config
 
-      - name: Install and Build Solana BPF program
+      - name: Install Solana CLI and Build BPF program
         run: |
-          sh -c "$(curl -sSfL https://release.solana.com/v1.18.0/install)"
-          export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
+          sudo apt-get update
+          sudo apt-get install -y solana-cli
           solana --version
           solana program build ./custom_write_program
 
