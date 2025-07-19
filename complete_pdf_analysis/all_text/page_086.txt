@@ -1,0 +1,9 @@
+=== СТРАНИЦА 86 ===
+
+New Memory Regions 
+MemoryRegion.State
+• Write permission check rules 
+• Account fields are only writable if the Account is marked as writable in the 
+instruction  
+• Only the account Owner can modify Owner / Data fields 
+• …

@@ -1,0 +1,7 @@
+=== СТРАНИЦА 6 ===
+
+Versions
+• New mechanism: Direct Mapping 
+• Legacy versions: ≤ v1.14.x 
+• New version: v1.16.0 
+• Reported and patched: June-July 2023.

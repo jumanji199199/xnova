@@ -1,0 +1,4 @@
+=== СТРАНИЦА 106 ===
+
+New Interoperability
+Updating MemoryRegion.Host_Addr

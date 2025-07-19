@@ -1,0 +1,2135 @@
+{
+  "page_002_img_01.png": {
+    "page": 2,
+    "filename": "page_002_img_01.png",
+    "size_bytes": 343507,
+    "size_kb": 335,
+    "text_context": "=== СТРАНИЦА 2 ===\n\nwhoami\n• Ginoah \n• CTF with Balsn \n• Bug Bounty with Anatomist\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_004_img_01.png": {
+    "page": 4,
+    "filename": "page_004_img_01.png",
+    "size_bytes": 44598,
+    "size_kb": 43,
+    "text_context": "=== СТРАНИЦА 4 ===\n\nBlockchain\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_004_img_02.png": {
+    "page": 4,
+    "filename": "page_004_img_02.png",
+    "size_bytes": 139399,
+    "size_kb": 136,
+    "text_context": "=== СТРАНИЦА 4 ===\n\nBlockchain\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_004_img_03.png": {
+    "page": 4,
+    "filename": "page_004_img_03.png",
+    "size_bytes": 62137,
+    "size_kb": 60,
+    "text_context": "=== СТРАНИЦА 4 ===\n\nBlockchain\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_004_img_04.png": {
+    "page": 4,
+    "filename": "page_004_img_04.png",
+    "size_bytes": 123423,
+    "size_kb": 120,
+    "text_context": "=== СТРАНИЦА 4 ===\n\nBlockchain\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_004_img_05.png": {
+    "page": 4,
+    "filename": "page_004_img_05.png",
+    "size_bytes": 95390,
+    "size_kb": 93,
+    "text_context": "=== СТРАНИЦА 4 ===\n\nBlockchain\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_005_img_01.png": {
+    "page": 5,
+    "filename": "page_005_img_01.png",
+    "size_bytes": 12314,
+    "size_kb": 12,
+    "text_context": "=== СТРАНИЦА 5 ===\n\nSolana\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_005_img_02.png": {
+    "page": 5,
+    "filename": "page_005_img_02.png",
+    "size_bytes": 33797,
+    "size_kb": 33,
+    "text_context": "=== СТРАНИЦА 5 ===\n\nSolana\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_005_img_03.png": {
+    "page": 5,
+    "filename": "page_005_img_03.png",
+    "size_bytes": 20882,
+    "size_kb": 20,
+    "text_context": "=== СТРАНИЦА 5 ===\n\nSolana\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_009_img_01.png": {
+    "page": 9,
+    "filename": "page_009_img_01.png",
+    "size_bytes": 35874,
+    "size_kb": 35,
+    "text_context": "=== СТРАНИЦА 9 ===\n\nData Storage Model\nAccounts\nAccountSharedData\nAccountSharedData\nAccountSharedData\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_009_img_02.png": {
+    "page": 9,
+    "filename": "page_009_img_02.png",
+    "size_bytes": 3327,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 9 ===\n\nData Storage Model\nAccounts\nAccountSharedData\nAccountSharedData\nAccountSharedData\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_009_img_03.png": {
+    "page": 9,
+    "filename": "page_009_img_03.png",
+    "size_bytes": 3306,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 9 ===\n\nData Storage Model\nAccounts\nAccountSharedData\nAccountSharedData\nAccountSharedData\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_010_img_01.png": {
+    "page": 10,
+    "filename": "page_010_img_01.png",
+    "size_bytes": 36631,
+    "size_kb": 35,
+    "text_context": "=== СТРАНИЦА 10 ===\n\nData Storage Model\nAccounts\nAccountSharedData\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_010_img_02.png": {
+    "page": 10,
+    "filename": "page_010_img_02.png",
+    "size_bytes": 3333,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 10 ===\n\nData Storage Model\nAccounts\nAccountSharedData\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_011_img_01.png": {
+    "page": 11,
+    "filename": "page_011_img_01.png",
+    "size_bytes": 23311,
+    "size_kb": 22,
+    "text_context": "=== СТРАНИЦА 11 ===\n\nTransaction Model\nInstructions & Accounts\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_012_img_01.png": {
+    "page": 12,
+    "filename": "page_012_img_01.png",
+    "size_bytes": 65311,
+    "size_kb": 63,
+    "text_context": "=== СТРАНИЦА 12 ===\n\nTransaction Model\nInstructions & Accounts\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_013_img_01.png": {
+    "page": 13,
+    "filename": "page_013_img_01.png",
+    "size_bytes": 65311,
+    "size_kb": 63,
+    "text_context": "=== СТРАНИЦА 13 ===\n\nTransaction Model\nInstructions & Accounts\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_015_img_01.png": {
+    "page": 15,
+    "filename": "page_015_img_01.png",
+    "size_bytes": 34923,
+    "size_kb": 34,
+    "text_context": "=== СТРАНИЦА 15 ===\n\nLegacy Data Exposure\nrbpf runtime memory layout\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_016_img_01.png": {
+    "page": 16,
+    "filename": "page_016_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 16 ===\n\nLegacy Data Exposure\nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_017_img_01.png": {
+    "page": 17,
+    "filename": "page_017_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 17 ===\n\nLegacy Data Exposure\nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_018_img_01.png": {
+    "page": 18,
+    "filename": "page_018_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 18 ===\n\nLegacy Data Exposure\nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_019_img_01.png": {
+    "page": 19,
+    "filename": "page_019_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 19 ===\n\nLegacy Data Exposure\nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_020_img_01.png": {
+    "page": 20,
+    "filename": "page_020_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 20 ===\n\nLegacy Data Exposure\nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_021_img_01.png": {
+    "page": 21,
+    "filename": "page_021_img_01.png",
+    "size_bytes": 326525,
+    "size_kb": 318,
+    "text_context": "=== СТРАНИЦА 21 ===\n\nLegacy Data Exposure\nAccountInfo construction\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_022_img_01.png": {
+    "page": 22,
+    "filename": "page_022_img_01.png",
+    "size_bytes": 326525,
+    "size_kb": 318,
+    "text_context": "=== СТРАНИЦА 22 ===\n\nLegacy Data Exposure\nAccountInfo construction\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_023_img_01.png": {
+    "page": 23,
+    "filename": "page_023_img_01.png",
+    "size_bytes": 326525,
+    "size_kb": 318,
+    "text_context": "=== СТРАНИЦА 23 ===\n\nLegacy Data Exposure\nAccountInfo construction\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_024_img_01.png": {
+    "page": 24,
+    "filename": "page_024_img_01.png",
+    "size_bytes": 34923,
+    "size_kb": 34,
+    "text_context": "=== СТРАНИЦА 24 ===\n\nLegacy Data Exposure\nWrite permission check\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_025_img_01.png": {
+    "page": 25,
+    "filename": "page_025_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 25 ===\n\nLegacy Data Exposure\nWrite permission check\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_032_img_01.png": {
+    "page": 32,
+    "filename": "page_032_img_01.png",
+    "size_bytes": 244252,
+    "size_kb": 238,
+    "text_context": "=== СТРАНИЦА 32 ===\n\nLegacy Data Exposure\nCommit\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_033_img_01.png": {
+    "page": 33,
+    "filename": "page_033_img_01.png",
+    "size_bytes": 244252,
+    "size_kb": 238,
+    "text_context": "=== СТРАНИЦА 33 ===\n\nLegacy Data Exposure\nCommit\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_034_img_01.png": {
+    "page": 34,
+    "filename": "page_034_img_01.png",
+    "size_bytes": 244252,
+    "size_kb": 238,
+    "text_context": "=== СТРАНИЦА 34 ===\n\nLegacy Data Exposure\nCommit\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_036_img_01.png": {
+    "page": 36,
+    "filename": "page_036_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 36 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_037_img_01.png": {
+    "page": 37,
+    "filename": "page_037_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 37 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_038_img_01.png": {
+    "page": 38,
+    "filename": "page_038_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 38 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_039_img_01.png": {
+    "page": 39,
+    "filename": "page_039_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 39 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_040_img_01.png": {
+    "page": 40,
+    "filename": "page_040_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 40 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_041_img_01.png": {
+    "page": 41,
+    "filename": "page_041_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 41 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_042_img_01.png": {
+    "page": 42,
+    "filename": "page_042_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 42 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_043_img_01.png": {
+    "page": 43,
+    "filename": "page_043_img_01.png",
+    "size_bytes": 327668,
+    "size_kb": 319,
+    "text_context": "=== СТРАНИЦА 43 ===\n\nLegacy Interoperability \ncpi (cross-program-invocation) call\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_044_img_01.png": {
+    "page": 44,
+    "filename": "page_044_img_01.png",
+    "size_bytes": 231485,
+    "size_kb": 226,
+    "text_context": "=== СТРАНИЦА 44 ===\n\nLegacy Interoperability \ncpi return\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_045_img_01.png": {
+    "page": 45,
+    "filename": "page_045_img_01.png",
+    "size_bytes": 231485,
+    "size_kb": 226,
+    "text_context": "=== СТРАНИЦА 45 ===\n\nLegacy Interoperability \ncpi return\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_046_img_01.png": {
+    "page": 46,
+    "filename": "page_046_img_01.png",
+    "size_bytes": 231485,
+    "size_kb": 226,
+    "text_context": "=== СТРАНИЦА 46 ===\n\nLegacy Interoperability \ncpi return\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_047_img_01.png": {
+    "page": 47,
+    "filename": "page_047_img_01.png",
+    "size_bytes": 231485,
+    "size_kb": 226,
+    "text_context": "=== СТРАНИЦА 47 ===\n\nLegacy Interoperability \ncpi return\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_050_img_01.png": {
+    "page": 50,
+    "filename": "page_050_img_01.png",
+    "size_bytes": 66689,
+    "size_kb": 65,
+    "text_context": "=== СТРАНИЦА 50 ===\n\nDirect Mapping \n• Introduced in v1.16.0 \n• Avoid copying AccountSharedData.data \n• Copy on Write only\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_052_img_01.png": {
+    "page": 52,
+    "filename": "page_052_img_01.png",
+    "size_bytes": 267531,
+    "size_kb": 261,
+    "text_context": "=== СТРАНИЦА 52 ===\n\nNew Data Exposure \nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_053_img_01.png": {
+    "page": 53,
+    "filename": "page_053_img_01.png",
+    "size_bytes": 267531,
+    "size_kb": 261,
+    "text_context": "=== СТРАНИЦА 53 ===\n\nNew Data Exposure \nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_054_img_01.png": {
+    "page": 54,
+    "filename": "page_054_img_01.png",
+    "size_bytes": 267531,
+    "size_kb": 261,
+    "text_context": "=== СТРАНИЦА 54 ===\n\nNew Data Exposure \nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_055_img_01.png": {
+    "page": 55,
+    "filename": "page_055_img_01.png",
+    "size_bytes": 267531,
+    "size_kb": 261,
+    "text_context": "=== СТРАНИЦА 55 ===\n\nNew Data Exposure \nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_056_img_01.png": {
+    "page": 56,
+    "filename": "page_056_img_01.png",
+    "size_bytes": 267531,
+    "size_kb": 261,
+    "text_context": "=== СТРАНИЦА 56 ===\n\nNew Data Exposure \nAccounts serialization\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_057_img_01.png": {
+    "page": 57,
+    "filename": "page_057_img_01.png",
+    "size_bytes": 354022,
+    "size_kb": 345,
+    "text_context": "=== СТРАНИЦА 57 ===\n\nNew Data Exposure \nAccountInfo construction\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_data_exposure_accountinfo",
+    "priority": "critical",
+    "techniques": [
+      "accountinfo_construction",
+      "data_exposure",
+      "memory_leak"
+    ],
+    "implementation_notes": [
+      "Критическая уязвимость AccountInfo",
+      "Детальная реализация data exposure"
+    ]
+  },
+  "page_058_img_01.png": {
+    "page": 58,
+    "filename": "page_058_img_01.png",
+    "size_bytes": 354022,
+    "size_kb": 345,
+    "text_context": "=== СТРАНИЦА 58 ===\n\nNew Data Exposure \nAccountInfo construction\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_data_exposure_accountinfo",
+    "priority": "critical",
+    "techniques": [
+      "accountinfo_construction",
+      "data_exposure",
+      "memory_leak"
+    ],
+    "implementation_notes": [
+      "Критическая уязвимость AccountInfo",
+      "Детальная реализация data exposure"
+    ]
+  },
+  "page_059_img_01.png": {
+    "page": 59,
+    "filename": "page_059_img_01.png",
+    "size_bytes": 354022,
+    "size_kb": 345,
+    "text_context": "=== СТРАНИЦА 59 ===\n\nNew Data Exposure \nAccountInfo construction\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_data_exposure_accountinfo",
+    "priority": "critical",
+    "techniques": [
+      "accountinfo_construction",
+      "data_exposure",
+      "memory_leak"
+    ],
+    "implementation_notes": [
+      "Критическая уязвимость AccountInfo",
+      "Детальная реализация data exposure"
+    ]
+  },
+  "page_061_img_01.png": {
+    "page": 61,
+    "filename": "page_061_img_01.png",
+    "size_bytes": 134721,
+    "size_kb": 131,
+    "text_context": "=== СТРАНИЦА 61 ===\n\n“Shared” Account Data\nAccountSharedData.Data\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_062_img_01.png": {
+    "page": 62,
+    "filename": "page_062_img_01.png",
+    "size_bytes": 48322,
+    "size_kb": 47,
+    "text_context": "=== СТРАНИЦА 62 ===\n\nLegacy CoW\nData relocation\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_063_img_01.png": {
+    "page": 63,
+    "filename": "page_063_img_01.png",
+    "size_bytes": 260138,
+    "size_kb": 254,
+    "text_context": "=== СТРАНИЦА 63 ===\n\nLegacy CoW\nReserved data buffer\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_064_img_01.png": {
+    "page": 64,
+    "filename": "page_064_img_01.png",
+    "size_bytes": 54619,
+    "size_kb": 53,
+    "text_context": "=== СТРАНИЦА 64 ===\n\nLegacy CoW\nData relocation\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_065_img_01.png": {
+    "page": 65,
+    "filename": "page_065_img_01.png",
+    "size_bytes": 110592,
+    "size_kb": 108,
+    "text_context": "=== СТРАНИЦА 65 ===\n\nLegacy CoW\nData relocation\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_066_img_01.png": {
+    "page": 66,
+    "filename": "page_066_img_01.png",
+    "size_bytes": 126105,
+    "size_kb": 123,
+    "text_context": "=== СТРАНИЦА 66 ===\n\nNew CoW\nReserved Space\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_068_img_01.png": {
+    "page": 68,
+    "filename": "page_068_img_01.png",
+    "size_bytes": 125063,
+    "size_kb": 122,
+    "text_context": "=== СТРАНИЦА 68 ===\n\nLegacy Memory Regions\nMemory Regions\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_069_img_01.png": {
+    "page": 69,
+    "filename": "page_069_img_01.png",
+    "size_bytes": 134755,
+    "size_kb": 131,
+    "text_context": "=== СТРАНИЦА 69 ===\n\nLegacy Memory Regions\nInput section\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_070_img_01.png": {
+    "page": 70,
+    "filename": "page_070_img_01.png",
+    "size_bytes": 213553,
+    "size_kb": 208,
+    "text_context": "=== СТРАНИЦА 70 ===\n\nNew Memory Regions\nDirect Mapping\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_071_img_01.png": {
+    "page": 71,
+    "filename": "page_071_img_01.png",
+    "size_bytes": 213553,
+    "size_kb": 208,
+    "text_context": "=== СТРАНИЦА 71 ===\n\nNew Memory Regions\nDirect Mapping\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_072_img_01.png": {
+    "page": 72,
+    "filename": "page_072_img_01.png",
+    "size_bytes": 213553,
+    "size_kb": 208,
+    "text_context": "=== СТРАНИЦА 72 ===\n\nNew Memory Regions\nDirect Mapping\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_073_img_01.png": {
+    "page": 73,
+    "filename": "page_073_img_01.png",
+    "size_bytes": 213553,
+    "size_kb": 208,
+    "text_context": "=== СТРАНИЦА 73 ===\n\nNew Memory Regions\nDirect Mapping\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_074_img_01.png": {
+    "page": 74,
+    "filename": "page_074_img_01.png",
+    "size_bytes": 197024,
+    "size_kb": 192,
+    "text_context": "=== СТРАНИЦА 74 ===\n\nNew Memory Regions\nUpdating Host_Addr\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_075_img_01.png": {
+    "page": 75,
+    "filename": "page_075_img_01.png",
+    "size_bytes": 197024,
+    "size_kb": 192,
+    "text_context": "=== СТРАНИЦА 75 ===\n\nNew Memory Regions\nUpdating Host_Addr\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_076_img_01.png": {
+    "page": 76,
+    "filename": "page_076_img_01.png",
+    "size_bytes": 211143,
+    "size_kb": 206,
+    "text_context": "=== СТРАНИЦА 76 ===\n\nNew Memory Regions\nUpdating Host_Addr\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_077_img_01.png": {
+    "page": 77,
+    "filename": "page_077_img_01.png",
+    "size_bytes": 211143,
+    "size_kb": 206,
+    "text_context": "=== СТРАНИЦА 77 ===\n\nNew Memory Regions\nUpdating Host_Addr\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_078_img_01.png": {
+    "page": 78,
+    "filename": "page_078_img_01.png",
+    "size_bytes": 211143,
+    "size_kb": 206,
+    "text_context": "=== СТРАНИЦА 78 ===\n\nNew Memory Regions\nReserved data buffer\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_079_img_01.png": {
+    "page": 79,
+    "filename": "page_079_img_01.png",
+    "size_bytes": 211143,
+    "size_kb": 206,
+    "text_context": "=== СТРАНИЦА 79 ===\n\nNew Memory Regions\nReserved data buffer\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "new_memory_regions",
+    "priority": "medium",
+    "techniques": [
+      "direct_mapping",
+      "memory_region_manipulation"
+    ],
+    "implementation_notes": [
+      "New Memory Regions с Direct Mapping"
+    ]
+  },
+  "page_080_img_01.png": {
+    "page": 80,
+    "filename": "page_080_img_01.png",
+    "size_bytes": 43690,
+    "size_kb": 42,
+    "text_context": "=== СТРАНИЦА 80 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_080_img_02.png": {
+    "page": 80,
+    "filename": "page_080_img_02.png",
+    "size_bytes": 3359,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 80 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_081_img_01.png": {
+    "page": 81,
+    "filename": "page_081_img_01.png",
+    "size_bytes": 43690,
+    "size_kb": 42,
+    "text_context": "=== СТРАНИЦА 81 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• Is_Writable \n• bool\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_081_img_02.png": {
+    "page": 81,
+    "filename": "page_081_img_02.png",
+    "size_bytes": 3359,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 81 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• Is_Writable \n• bool\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_082_img_01.png": {
+    "page": 82,
+    "filename": "page_082_img_01.png",
+    "size_bytes": 134755,
+    "size_kb": 131,
+    "text_context": "=== СТРАНИЦА 82 ===\n\nNew Memory Regions \nMemoryRegion.State\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_083_img_01.png": {
+    "page": 83,
+    "filename": "page_083_img_01.png",
+    "size_bytes": 213553,
+    "size_kb": 208,
+    "text_context": "=== СТРАНИЦА 83 ===\n\nNew Memory Regions \nMemoryRegion.State\n",
+    "inferred_type": "memory_region_technique",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_084_img_01.png": {
+    "page": 84,
+    "filename": "page_084_img_01.png",
+    "size_bytes": 43690,
+    "size_kb": 42,
+    "text_context": "=== СТРАНИЦА 84 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write)\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_084_img_02.png": {
+    "page": 84,
+    "filename": "page_084_img_02.png",
+    "size_bytes": 3359,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 84 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write)\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_085_img_01.png": {
+    "page": 85,
+    "filename": "page_085_img_01.png",
+    "size_bytes": 43690,
+    "size_kb": 42,
+    "text_context": "=== СТРАНИЦА 85 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• CoW (Handle Vector buffer reserve)\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_085_img_02.png": {
+    "page": 85,
+    "filename": "page_085_img_02.png",
+    "size_bytes": 3359,
+    "size_kb": 3,
+    "text_context": "=== СТРАНИЦА 85 ===\n\nNew Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• CoW (Handle Vector buffer reserve)\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_087_img_01.png": {
+    "page": 87,
+    "filename": "page_087_img_01.png",
+    "size_bytes": 166061,
+    "size_kb": 162,
+    "text_context": "=== СТРАНИЦА 87 ===\n\nCommit\nNew Data Exposure\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_088_img_01.png": {
+    "page": 88,
+    "filename": "page_088_img_01.png",
+    "size_bytes": 166061,
+    "size_kb": 162,
+    "text_context": "=== СТРАНИЦА 88 ===\n\nCommit\nNew Data Exposure\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_089_img_01.png": {
+    "page": 89,
+    "filename": "page_089_img_01.png",
+    "size_bytes": 166061,
+    "size_kb": 162,
+    "text_context": "=== СТРАНИЦА 89 ===\n\nCommit\nNew Data Exposure\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_090_img_01.png": {
+    "page": 90,
+    "filename": "page_090_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 90 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_091_img_01.png": {
+    "page": 91,
+    "filename": "page_091_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 91 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_092_img_01.png": {
+    "page": 92,
+    "filename": "page_092_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 92 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_093_img_01.png": {
+    "page": 93,
+    "filename": "page_093_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 93 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_094_img_01.png": {
+    "page": 94,
+    "filename": "page_094_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 94 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_095_img_01.png": {
+    "page": 95,
+    "filename": "page_095_img_01.png",
+    "size_bytes": 356135,
+    "size_kb": 347,
+    "text_context": "=== СТРАНИЦА 95 ===\n\nNew Interoperability\ncpi call\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "new_cpi_interoperability",
+    "priority": "critical",
+    "techniques": [
+      "cpi_call_manipulation",
+      "cross_program_invocation",
+      "account_state_corruption"
+    ],
+    "implementation_notes": [
+      "Максимально детальная реализация CPI эксплойтов",
+      "Полный код с комментариями"
+    ]
+  },
+  "page_096_img_01.png": {
+    "page": 96,
+    "filename": "page_096_img_01.png",
+    "size_bytes": 305536,
+    "size_kb": 298,
+    "text_context": "=== СТРАНИЦА 96 ===\n\nNew Interoperability\ncpi return\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_097_img_01.png": {
+    "page": 97,
+    "filename": "page_097_img_01.png",
+    "size_bytes": 39943,
+    "size_kb": 39,
+    "text_context": "=== СТРАНИЦА 97 ===\n\nNew Interoperability\nData relocation\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_098_img_01.png": {
+    "page": 98,
+    "filename": "page_098_img_01.png",
+    "size_bytes": 305536,
+    "size_kb": 298,
+    "text_context": "=== СТРАНИЦА 98 ===\n\nNew Interoperability\ncpi return\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_099_img_01.png": {
+    "page": 99,
+    "filename": "page_099_img_01.png",
+    "size_bytes": 305536,
+    "size_kb": 298,
+    "text_context": "=== СТРАНИЦА 99 ===\n\nNew Interoperability\ncpi return\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_100_img_01.png": {
+    "page": 100,
+    "filename": "page_100_img_01.png",
+    "size_bytes": 305536,
+    "size_kb": 298,
+    "text_context": "=== СТРАНИЦА 100 ===\n\nNew Interoperability\ncpi return\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_101_img_01.png": {
+    "page": 101,
+    "filename": "page_101_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 101 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_102_img_01.png": {
+    "page": 102,
+    "filename": "page_102_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 102 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_103_img_01.png": {
+    "page": 103,
+    "filename": "page_103_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 103 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_104_img_01.png": {
+    "page": 104,
+    "filename": "page_104_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 104 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_105_img_01.png": {
+    "page": 105,
+    "filename": "page_105_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 105 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_106_img_01.png": {
+    "page": 106,
+    "filename": "page_106_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 106 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_107_img_01.png": {
+    "page": 107,
+    "filename": "page_107_img_01.png",
+    "size_bytes": 250460,
+    "size_kb": 244,
+    "text_context": "=== СТРАНИЦА 107 ===\n\nNew Interoperability\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "legacy_technique",
+    "exploit_category": "memory_region_host_addr",
+    "priority": "high",
+    "techniques": [
+      "host_addr_manipulation",
+      "memory_region_update"
+    ],
+    "implementation_notes": [
+      "Legacy MemoryRegion.Host_Addr техники"
+    ]
+  },
+  "page_109_img_01.png": {
+    "page": 109,
+    "filename": "page_109_img_01.png",
+    "size_bytes": 122203,
+    "size_kb": 119,
+    "text_context": "=== СТРАНИЦА 109 ===\n\nBug\nMissing check of guest address when updating MemoryRegion\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "guest_address_validation_bug",
+    "priority": "high",
+    "techniques": [
+      "guest_address_bypass",
+      "validation_bypass",
+      "memory_region_bug"
+    ],
+    "implementation_notes": [
+      "Баг отсутствия проверки guest address",
+      "MemoryRegion validation bypass"
+    ]
+  },
+  "page_110_img_01.png": {
+    "page": 110,
+    "filename": "page_110_img_01.png",
+    "size_bytes": 122203,
+    "size_kb": 119,
+    "text_context": "=== СТРАНИЦА 110 ===\n\nBug\nMissing check of guest address when updating MemoryRegion\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "guest_address_validation_bug",
+    "priority": "high",
+    "techniques": [
+      "guest_address_bypass",
+      "validation_bypass",
+      "memory_region_bug"
+    ],
+    "implementation_notes": [
+      "Баг отсутствия проверки guest address",
+      "MemoryRegion validation bypass"
+    ]
+  },
+  "page_111_img_01.png": {
+    "page": 111,
+    "filename": "page_111_img_01.png",
+    "size_bytes": 122203,
+    "size_kb": 119,
+    "text_context": "=== СТРАНИЦА 111 ===\n\nBug\nMissing check of guest address when updating MemoryRegion\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "guest_address_validation_bug",
+    "priority": "high",
+    "techniques": [
+      "guest_address_bypass",
+      "validation_bypass",
+      "memory_region_bug"
+    ],
+    "implementation_notes": [
+      "Баг отсутствия проверки guest address",
+      "MemoryRegion validation bypass"
+    ]
+  },
+  "page_112_img_01.png": {
+    "page": 112,
+    "filename": "page_112_img_01.png",
+    "size_bytes": 122203,
+    "size_kb": 119,
+    "text_context": "=== СТРАНИЦА 112 ===\n\n• How does cpi know which region to update?  \n• Search through MemoryRegions for matching virtual address \n• Where does that virtual address came from? \n• CallerAccount, and users have full control over VM heap\nBug\nMissing check of guest address when updating MemoryRegion\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "guest_address_validation_bug",
+    "priority": "high",
+    "techniques": [
+      "guest_address_bypass",
+      "validation_bypass",
+      "memory_region_bug"
+    ],
+    "implementation_notes": [
+      "Баг отсутствия проверки guest address",
+      "MemoryRegion validation bypass"
+    ]
+  },
+  "page_113_img_01.png": {
+    "page": 113,
+    "filename": "page_113_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 113 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_114_img_01.png": {
+    "page": 114,
+    "filename": "page_114_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 114 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_115_img_01.png": {
+    "page": 115,
+    "filename": "page_115_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 115 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_116_img_01.png": {
+    "page": 116,
+    "filename": "page_116_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 116 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_117_img_01.png": {
+    "page": 117,
+    "filename": "page_117_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 117 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_118_img_01.png": {
+    "page": 118,
+    "filename": "page_118_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 118 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_119_img_01.png": {
+    "page": 119,
+    "filename": "page_119_img_01.png",
+    "size_bytes": 391441,
+    "size_kb": 382,
+    "text_context": "=== СТРАНИЦА 119 ===\n\nBug\n",
+    "inferred_type": "detailed_code_implementation",
+    "exploit_category": "",
+    "priority": "critical",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_120_img_01.png": {
+    "page": 120,
+    "filename": "page_120_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 120 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_121_img_01.png": {
+    "page": 121,
+    "filename": "page_121_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 121 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_122_img_01.png": {
+    "page": 122,
+    "filename": "page_122_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 122 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_123_img_01.png": {
+    "page": 123,
+    "filename": "page_123_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 123 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_124_img_01.png": {
+    "page": 124,
+    "filename": "page_124_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 124 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_125_img_01.png": {
+    "page": 125,
+    "filename": "page_125_img_01.png",
+    "size_bytes": 279962,
+    "size_kb": 273,
+    "text_context": "=== СТРАНИЦА 125 ===\n\nBug\ncpi return\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "cpi_return_bug",
+    "priority": "high",
+    "techniques": [
+      "cpi_return_manipulation",
+      "return_value_corruption"
+    ],
+    "implementation_notes": [
+      "CPI return bug эксплойт"
+    ]
+  },
+  "page_126_img_01.png": {
+    "page": 126,
+    "filename": "page_126_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 126 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_127_img_01.png": {
+    "page": 127,
+    "filename": "page_127_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 127 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_128_img_01.png": {
+    "page": 128,
+    "filename": "page_128_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 128 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_129_img_01.png": {
+    "page": 129,
+    "filename": "page_129_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 129 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_130_img_01.png": {
+    "page": 130,
+    "filename": "page_130_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 130 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_131_img_01.png": {
+    "page": 131,
+    "filename": "page_131_img_01.png",
+    "size_bytes": 87956,
+    "size_kb": 85,
+    "text_context": "=== СТРАНИЦА 131 ===\n\nBug\nFailed plan\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_132_img_01.png": {
+    "page": 132,
+    "filename": "page_132_img_01.png",
+    "size_bytes": 130188,
+    "size_kb": 127,
+    "text_context": "=== СТРАНИЦА 132 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_132_img_02.png": {
+    "page": 132,
+    "filename": "page_132_img_02.png",
+    "size_bytes": 7999,
+    "size_kb": 7,
+    "text_context": "=== СТРАНИЦА 132 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_133_img_01.png": {
+    "page": 133,
+    "filename": "page_133_img_01.png",
+    "size_bytes": 130188,
+    "size_kb": 127,
+    "text_context": "=== СТРАНИЦА 133 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_133_img_02.png": {
+    "page": 133,
+    "filename": "page_133_img_02.png",
+    "size_bytes": 7999,
+    "size_kb": 7,
+    "text_context": "=== СТРАНИЦА 133 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_134_img_01.png": {
+    "page": 134,
+    "filename": "page_134_img_01.png",
+    "size_bytes": 130188,
+    "size_kb": 127,
+    "text_context": "=== СТРАНИЦА 134 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_134_img_02.png": {
+    "page": 134,
+    "filename": "page_134_img_02.png",
+    "size_bytes": 7999,
+    "size_kb": 7,
+    "text_context": "=== СТРАНИЦА 134 ===\n\nBug\nOut of bound write\n",
+    "inferred_type": "diagram_or_schema",
+    "exploit_category": "",
+    "priority": "low",
+    "techniques": [],
+    "implementation_notes": [
+      "Диаграмма или схема"
+    ]
+  },
+  "page_135_img_01.png": {
+    "page": 135,
+    "filename": "page_135_img_01.png",
+    "size_bytes": 138863,
+    "size_kb": 135,
+    "text_context": "=== СТРАНИЦА 135 ===\n\nBug\nOut of bound write\nAccount2 Databuf\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_136_img_01.png": {
+    "page": 136,
+    "filename": "page_136_img_01.png",
+    "size_bytes": 138863,
+    "size_kb": 135,
+    "text_context": "=== СТРАНИЦА 136 ===\n\nAccount2 Databuf\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_137_img_01.png": {
+    "page": 137,
+    "filename": "page_137_img_01.png",
+    "size_bytes": 138863,
+    "size_kb": 135,
+    "text_context": "=== СТРАНИЦА 137 ===\n\nAccount2 Databuf\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_138_img_01.png": {
+    "page": 138,
+    "filename": "page_138_img_01.png",
+    "size_bytes": 153245,
+    "size_kb": 149,
+    "text_context": "=== СТРАНИЦА 138 ===\n\nAccount2 Databuf\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_139_img_01.png": {
+    "page": 139,
+    "filename": "page_139_img_01.png",
+    "size_bytes": 153245,
+    "size_kb": 149,
+    "text_context": "=== СТРАНИЦА 139 ===\n\nAccount2 Databuf\nBug\nOut of bound write\n",
+    "inferred_type": "bug_analysis",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_141_img_01.png": {
+    "page": 141,
+    "filename": "page_141_img_01.png",
+    "size_bytes": 292803,
+    "size_kb": 285,
+    "text_context": "=== СТРАНИЦА 141 ===\n\nExploit\nPreparation\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_142_img_01.png": {
+    "page": 142,
+    "filename": "page_142_img_01.png",
+    "size_bytes": 292803,
+    "size_kb": 285,
+    "text_context": "=== СТРАНИЦА 142 ===\n\nExploit\nPreparation\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_143_img_01.png": {
+    "page": 143,
+    "filename": "page_143_img_01.png",
+    "size_bytes": 292803,
+    "size_kb": 285,
+    "text_context": "=== СТРАНИЦА 143 ===\n\nExploit\nPreparation\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_144_img_01.png": {
+    "page": 144,
+    "filename": "page_144_img_01.png",
+    "size_bytes": 292803,
+    "size_kb": 285,
+    "text_context": "=== СТРАНИЦА 144 ===\n\nExploit\nPreparation\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_145_img_01.png": {
+    "page": 145,
+    "filename": "page_145_img_01.png",
+    "size_bytes": 293076,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 145 ===\n\nExploit\nChanging Data Pointer\nu64\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_146_img_01.png": {
+    "page": 146,
+    "filename": "page_146_img_01.png",
+    "size_bytes": 293076,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 146 ===\n\nExploit\nChanging Data Pointer\nu64\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_147_img_01.png": {
+    "page": 147,
+    "filename": "page_147_img_01.png",
+    "size_bytes": 293172,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 147 ===\n\nExploit\nMatching MemoryRegion\nu64\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_148_img_01.png": {
+    "page": 148,
+    "filename": "page_148_img_01.png",
+    "size_bytes": 293172,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 148 ===\n\nExploit\nMatching MemoryRegion\nu64\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_149_img_01.png": {
+    "page": 149,
+    "filename": "page_149_img_01.png",
+    "size_bytes": 293172,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 149 ===\n\nu64\nExploit\nMatching MemoryRegion\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_150_img_01.png": {
+    "page": 150,
+    "filename": "page_150_img_01.png",
+    "size_bytes": 293172,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 150 ===\n\nu64\nExploit\nMatching MemoryRegion\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_151_img_01.png": {
+    "page": 151,
+    "filename": "page_151_img_01.png",
+    "size_bytes": 293172,
+    "size_kb": 286,
+    "text_context": "=== СТРАНИЦА 151 ===\n\nu64\nExploit\nMatching MemoryRegion\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_152_img_01.png": {
+    "page": 152,
+    "filename": "page_152_img_01.png",
+    "size_bytes": 296473,
+    "size_kb": 289,
+    "text_context": "=== СТРАНИЦА 152 ===\n\nExploit\nUpdating MemoryRegion.Host_Addr\nCell<u64>\nu64\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_153_img_01.png": {
+    "page": 153,
+    "filename": "page_153_img_01.png",
+    "size_bytes": 296473,
+    "size_kb": 289,
+    "text_context": "=== СТРАНИЦА 153 ===\n\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\nCell<u64>\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_154_img_01.png": {
+    "page": 154,
+    "filename": "page_154_img_01.png",
+    "size_bytes": 296473,
+    "size_kb": 289,
+    "text_context": "=== СТРАНИЦА 154 ===\n\nCell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_155_img_01.png": {
+    "page": 155,
+    "filename": "page_155_img_01.png",
+    "size_bytes": 296473,
+    "size_kb": 289,
+    "text_context": "=== СТРАНИЦА 155 ===\n\nCell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_156_img_01.png": {
+    "page": 156,
+    "filename": "page_156_img_01.png",
+    "size_bytes": 296473,
+    "size_kb": 289,
+    "text_context": "=== СТРАНИЦА 156 ===\n\nCell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+    "inferred_type": "exploit_implementation",
+    "exploit_category": "",
+    "priority": "high",
+    "techniques": [],
+    "implementation_notes": []
+  },
+  "page_157_img_01.png": {
+    "page": 157,
+    "filename": "page_157_img_01.png",
+    "size_bytes": 298818,
+    "size_kb": 291,
+    "text_context": "=== СТРАНИЦА 157 ===\n\n0xdeadbeaf\nCell<u64>\nu64\nExploit\nArbitrary Read/Write\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "arbitrary_read_write_0xdeadbeaf",
+    "priority": "critical",
+    "techniques": [
+      "arbitrary_read",
+      "arbitrary_write",
+      "cell_u64_manipulation",
+      "known_address_exploit"
+    ],
+    "implementation_notes": [
+      "Финальный Arbitrary Read/Write эксплойт",
+      "Использует известный адрес 0xdeadbeaf",
+      "Cell<u64> манипуляции"
+    ]
+  },
+  "page_158_img_01.png": {
+    "page": 158,
+    "filename": "page_158_img_01.png",
+    "size_bytes": 298818,
+    "size_kb": 291,
+    "text_context": "=== СТРАНИЦА 158 ===\n\nCell<u64>\nu64\n0xdeadbeaf\nExploit\nArbitrary Read/Write\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "arbitrary_read_write_0xdeadbeaf",
+    "priority": "critical",
+    "techniques": [
+      "arbitrary_read",
+      "arbitrary_write",
+      "cell_u64_manipulation",
+      "known_address_exploit"
+    ],
+    "implementation_notes": [
+      "Финальный Arbitrary Read/Write эксплойт",
+      "Использует известный адрес 0xdeadbeaf",
+      "Cell<u64> манипуляции"
+    ]
+  },
+  "page_159_img_01.png": {
+    "page": 159,
+    "filename": "page_159_img_01.png",
+    "size_bytes": 298818,
+    "size_kb": 291,
+    "text_context": "=== СТРАНИЦА 159 ===\n\nCell<u64>\nu64\n0xdeadbeaf\nExploit\nArbitrary Read/Write\n",
+    "inferred_type": "final_exploit_implementation",
+    "exploit_category": "arbitrary_read_write_0xdeadbeaf",
+    "priority": "critical",
+    "techniques": [
+      "arbitrary_read",
+      "arbitrary_write",
+      "cell_u64_manipulation",
+      "known_address_exploit"
+    ],
+    "implementation_notes": [
+      "Финальный Arbitrary Read/Write эксплойт",
+      "Использует известный адрес 0xdeadbeaf",
+      "Cell<u64> манипуляции"
+    ]
+  },
+  "page_160_img_01.png": {
+    "page": 160,
+    "filename": "page_160_img_01.png",
+    "size_bytes": 97674,
+    "size_kb": 95,
+    "text_context": "=== СТРАНИЦА 160 ===\n\n",
+    "inferred_type": "code_or_explanation",
+    "exploit_category": "",
+    "priority": "medium",
+    "techniques": [],
+    "implementation_notes": []
+  }
+}

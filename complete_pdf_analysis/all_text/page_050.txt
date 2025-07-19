@@ -1,0 +1,6 @@
+=== СТРАНИЦА 50 ===
+
+Direct Mapping 
+• Introduced in v1.16.0 
+• Avoid copying AccountSharedData.data 
+• Copy on Write only

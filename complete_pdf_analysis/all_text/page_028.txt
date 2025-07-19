@@ -1,0 +1,11 @@
+=== СТРАНИЦА 28 ===
+
+• Account fields are only writable if the Account is marked as writable in the instruction  
+• Only the account Owner can modify Owner / Data fields 
+• Owner can only be modified when data == '\0' * len(data) 
+• Lamports can be increased by anyone 
+• Lamports can only be decreased by Owner  
+• Sum of Lamports in all accounts passed to tx must remain consistent after execution 
+• …
+Legacy Data Exposure
+Write permission check

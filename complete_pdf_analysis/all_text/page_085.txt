@@ -1,0 +1,8 @@
+=== СТРАНИЦА 85 ===
+
+New Memory Regions 
+MemoryRegion.State
+• State 
+• Readable (read only) 
+• Writable (read + write) 
+• CoW (Handle Vector buffer reserve)

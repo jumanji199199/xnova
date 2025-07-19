@@ -1,0 +1,4 @@
+=== СТРАНИЦА 79 ===
+
+New Memory Regions
+Reserved data buffer

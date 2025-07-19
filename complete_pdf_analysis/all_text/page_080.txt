@@ -1,0 +1,5 @@
+=== СТРАНИЦА 80 ===
+
+New Memory Regions 
+MemoryRegion.State
+• State

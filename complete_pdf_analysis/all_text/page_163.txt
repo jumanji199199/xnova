@@ -1,0 +1,7 @@
+=== СТРАНИЦА 163 ===
+
+Conclusion
+• Not Just Simple Bugs: 
+• Complex and interesting vulnerabilities exist 
+• Modern Language ≠ Memory Safety: 
+• Rust can still have memory bugs

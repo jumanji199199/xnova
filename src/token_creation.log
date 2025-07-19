@@ -1,0 +1,302 @@
+2025-07-19 01:15:35,989 - vulnerable_token_creator - INFO - === Создание универсального уязвимого SPL токена ===
+2025-07-19 01:15:35,990 - vulnerable_token_creator - INFO - Адрес плательщика: 8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q
+2025-07-19 01:15:36,262 - vulnerable_token_creator - INFO - Баланс: 0.369672087 SOL
+2025-07-19 01:15:36,474 - vulnerable_token_creator - INFO - Баланс: 0.369672087 SOL
+2025-07-19 01:15:36,474 - vulnerable_token_creator - INFO - 
+=== Создаем Account Exploit Test Token (AEXPT) ===
+
+2025-07-19 01:15:36,474 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Account Exploit Test Token (AEXPT)
+2025-07-19 01:15:36,474 - vulnerable_token_creator - INFO - Mint address: GnsGjt1m258E1JNwkFH5js9dTFPFFXj7xfGCAoxguE4N
+2025-07-19 01:15:36,474 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:15:37,231 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:15:37,231 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:37,231 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:15:37,653 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:15:37,653 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:37,653 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:15:42,920 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:15:47,980 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:15:47,981 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:47,981 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:15:48,189 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:15:48,333 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:15:48,333 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:48,333 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-mainnet.g.alchemy.com/v2/demo
+2025-07-19 01:15:48,503 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:15:48,700 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:15:48,700 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:48,700 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:15:48,700 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:15:48,701 - vulnerable_token_creator - ERROR - Не удалось создать токен AEXPT
+2025-07-19 01:15:50,701 - vulnerable_token_creator - INFO - 
+=== Создаем Memory Corruption Test Token (MEMEX) ===
+
+2025-07-19 01:15:50,701 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Memory Corruption Test Token (MEMEX)
+2025-07-19 01:15:50,701 - vulnerable_token_creator - INFO - Mint address: 9xZb6awDYZFPTN3kDwfXDizMpcqqvfq5qNZz1C7D9mjV
+2025-07-19 01:15:50,701 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:15:51,454 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:15:51,454 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:51,455 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:15:51,834 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:15:51,834 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:15:51,834 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:15:56,868 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:01,917 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:01,918 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:01,918 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:16:02,058 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:02,183 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:02,184 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:02,184 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-mainnet.g.alchemy.com/v2/demo
+2025-07-19 01:16:02,362 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:02,531 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:02,531 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:02,532 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:16:02,532 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:16:02,532 - vulnerable_token_creator - ERROR - Не удалось создать токен MEMEX
+2025-07-19 01:16:04,532 - vulnerable_token_creator - INFO - 
+=== Создаем Reentrancy Test Token (REENT) ===
+
+2025-07-19 01:16:04,532 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Reentrancy Test Token (REENT)
+2025-07-19 01:16:04,532 - vulnerable_token_creator - INFO - Mint address: DiHud2inNmVcbLA6JMzzjY3A8WtZvcBCx5X5dzBZV5Tc
+2025-07-19 01:16:04,532 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:16:05,261 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:16:05,263 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:05,263 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:16:05,657 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:16:05,657 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:05,657 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:16:10,714 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:15,756 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:15,757 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:15,757 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:16:15,890 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:16,014 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:16,014 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:16,015 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-mainnet.g.alchemy.com/v2/demo
+2025-07-19 01:16:16,190 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:16,370 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:16,370 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:16,371 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:16:16,371 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:16:16,371 - vulnerable_token_creator - ERROR - Не удалось создать токен REENT
+2025-07-19 01:16:18,372 - vulnerable_token_creator - INFO - 
+=== Создаем Program Exploit Test Token (PROGX) ===
+
+2025-07-19 01:16:18,372 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Program Exploit Test Token (PROGX)
+2025-07-19 01:16:18,372 - vulnerable_token_creator - INFO - Mint address: 65jnvuFF44FTXHtU6hEwyd87wYNmgbAmKUEdnPT7hQnL
+2025-07-19 01:16:18,372 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:16:19,128 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Attempt to debit an account but found no record of a prior credit
+2025-07-19 01:16:19,128 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:19,128 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:16:19,564 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:16:19,564 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:19,564 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:16:24,625 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:29,686 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:29,686 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:29,686 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:16:29,809 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:29,947 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:29,947 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:29,947 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-mainnet.g.alchemy.com/v2/demo
+2025-07-19 01:16:30,122 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:30,293 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:30,293 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:30,296 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:16:30,296 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:16:30,296 - vulnerable_token_creator - ERROR - Не удалось создать токен PROGX
+2025-07-19 01:16:32,297 - vulnerable_token_creator - INFO - 
+=== Создаем Validator Exploit Test Token (VALXT) ===
+
+2025-07-19 01:16:32,297 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Validator Exploit Test Token (VALXT)
+2025-07-19 01:16:32,297 - vulnerable_token_creator - INFO - Mint address: MUmci2NwfJJu4C12TNumFXWtv4kgcpb7Cin1VFoL5iS
+2025-07-19 01:16:32,297 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:16:32,976 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Attempt to debit an account but found no record of a prior credit
+2025-07-19 01:16:32,976 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:32,976 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:16:33,398 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:16:33,398 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:33,398 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:16:38,437 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:43,502 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:43,504 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:43,504 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:16:43,630 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:43,752 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:43,752 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:43,752 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-mainnet.g.alchemy.com/v2/demo
+2025-07-19 01:16:43,922 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:16:44,104 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:16:44,104 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:16:44,104 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:16:44,104 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:16:44,104 - vulnerable_token_creator - ERROR - Не удалось создать токен VALXT
+2025-07-19 01:16:46,104 - vulnerable_token_creator - ERROR - Не удалось создать ни одного токена
+2025-07-19 01:23:44,642 - vulnerable_token_creator - INFO - === Создание универсального уязвимого SPL токена ===
+2025-07-19 01:23:44,643 - vulnerable_token_creator - INFO - Адрес плательщика: 8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q
+2025-07-19 01:23:44,854 - vulnerable_token_creator - INFO - Баланс: 0.369672087 SOL
+2025-07-19 01:23:44,854 - vulnerable_token_creator - INFO - Основной RPC URL: https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:23:44,854 - vulnerable_token_creator - INFO - Доступно запасных RPC endpoints: 6
+2025-07-19 01:23:45,066 - vulnerable_token_creator - INFO - Баланс: 0.369672087 SOL
+2025-07-19 01:23:45,066 - vulnerable_token_creator - INFO - 
+=== Создаем Account Exploit Test Token (AEXPT) ===
+
+2025-07-19 01:23:45,066 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Account Exploit Test Token (AEXPT)
+2025-07-19 01:23:45,066 - vulnerable_token_creator - INFO - Mint address: HQzPQQZfzHw2khL6434iA4i1hTeyFMWoVjFLk8MhYVWG
+2025-07-19 01:23:45,067 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:23:45,789 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:23:45,789 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:45,789 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://go.getblock.io/dd5ea400c7dc4adcb3f3d7e5cdf672d9
+2025-07-19 01:23:46,551 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:23:46,551 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:46,551 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://ancient-polished-silence.solana-mainnet.quiknode.pro/34292d2a868f0c1f3526c67b8ab3927010e77f57/
+2025-07-19 01:23:47,230 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:23:47,230 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:47,230 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet.solana.com
+2025-07-19 01:23:47,272 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:23:47,280 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:23:47,280 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:47,280 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:23:47,685 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:23:47,685 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:47,686 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:23:52,729 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:23:57,785 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:23:57,786 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:57,786 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:23:57,922 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:23:58,063 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:23:58,063 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:23:58,064 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:23:58,064 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:23:58,064 - vulnerable_token_creator - ERROR - Не удалось создать токен AEXPT
+2025-07-19 01:24:00,065 - vulnerable_token_creator - INFO - 
+=== Создаем Memory Corruption Test Token (MEMEX) ===
+
+2025-07-19 01:24:00,065 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Memory Corruption Test Token (MEMEX)
+2025-07-19 01:24:00,065 - vulnerable_token_creator - INFO - Mint address: GmTtCeSiPiZamZYXWw2iEphdZqvudAtECwTwM23JXf7K
+2025-07-19 01:24:00,065 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:24:00,784 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:24:00,784 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:00,784 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://go.getblock.io/dd5ea400c7dc4adcb3f3d7e5cdf672d9
+2025-07-19 01:24:01,388 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:01,388 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:01,388 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://ancient-polished-silence.solana-mainnet.quiknode.pro/34292d2a868f0c1f3526c67b8ab3927010e77f57/
+2025-07-19 01:24:01,901 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:01,901 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:01,902 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet.solana.com
+2025-07-19 01:24:01,936 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:01,944 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:01,945 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:01,945 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:24:02,342 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:02,342 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:02,342 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:24:07,388 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:12,435 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:12,435 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:12,435 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:24:12,568 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:12,689 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:12,689 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:12,689 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:24:12,689 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:24:12,689 - vulnerable_token_creator - ERROR - Не удалось создать токен MEMEX
+2025-07-19 01:24:14,691 - vulnerable_token_creator - INFO - 
+=== Создаем Reentrancy Test Token (REENT) ===
+
+2025-07-19 01:24:14,691 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Reentrancy Test Token (REENT)
+2025-07-19 01:24:14,691 - vulnerable_token_creator - INFO - Mint address: 5B4dvsrq6ta4eZwMsFSRrs3FLsK4urMQR9tP8qmVZMhz
+2025-07-19 01:24:14,691 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:24:15,406 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Attempt to debit an account but found no record of a prior credit
+2025-07-19 01:24:15,407 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:15,407 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://go.getblock.io/dd5ea400c7dc4adcb3f3d7e5cdf672d9
+2025-07-19 01:24:15,942 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:15,942 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:15,942 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://ancient-polished-silence.solana-mainnet.quiknode.pro/34292d2a868f0c1f3526c67b8ab3927010e77f57/
+2025-07-19 01:24:16,433 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:16,433 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:16,434 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet.solana.com
+2025-07-19 01:24:16,468 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:16,476 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:16,477 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:16,477 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:24:16,869 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:16,869 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:16,869 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:24:21,930 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:26,978 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:26,979 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:26,979 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:24:27,111 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:27,242 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:27,242 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:27,242 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:24:27,242 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:24:27,242 - vulnerable_token_creator - ERROR - Не удалось создать токен REENT
+2025-07-19 01:24:29,243 - vulnerable_token_creator - INFO - 
+=== Создаем Program Exploit Test Token (PROGX) ===
+
+2025-07-19 01:24:29,243 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Program Exploit Test Token (PROGX)
+2025-07-19 01:24:29,243 - vulnerable_token_creator - INFO - Mint address: EGBMXSoG2LDUmxTrrjJtCixYvSNrdroXHZxU1KX3FwYD
+2025-07-19 01:24:29,243 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:24:29,972 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Error processing Instruction 0: Custom program error: 0x3
+2025-07-19 01:24:29,972 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:29,973 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://go.getblock.io/dd5ea400c7dc4adcb3f3d7e5cdf672d9
+2025-07-19 01:24:30,583 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:30,583 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:30,583 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://ancient-polished-silence.solana-mainnet.quiknode.pro/34292d2a868f0c1f3526c67b8ab3927010e77f57/
+2025-07-19 01:24:31,121 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:31,121 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:31,121 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet.solana.com
+2025-07-19 01:24:31,156 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:31,163 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:31,164 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:31,164 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:24:31,549 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Error processing Instruction 0: custom program error: 0x3", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(3))), logs: Some(["Program 11111111111111111111111111111111 invoke [1]", "Allocate: requested 6241819207277154224, max allowed 10485760", "Program 11111111111111111111111111111111 failed: custom program error: 0x3"]), accounts: None, units_consumed: Some(150), return_data: None }) }
+2025-07-19 01:24:31,549 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:31,549 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:24:36,586 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:41,651 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:41,652 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:41,652 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:24:41,774 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:41,916 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:41,916 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:41,916 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:24:41,916 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:24:41,916 - vulnerable_token_creator - ERROR - Не удалось создать токен PROGX
+2025-07-19 01:24:43,917 - vulnerable_token_creator - INFO - 
+=== Создаем Validator Exploit Test Token (VALXT) ===
+
+2025-07-19 01:24:43,917 - vulnerable_token_creator - INFO - Создаем универсальный уязвимый токен Validator Exploit Test Token (VALXT)
+2025-07-19 01:24:43,917 - vulnerable_token_creator - INFO - Mint address: 2oS7Jq9Q4PG7gLMnVohs2GJ29dCwsPzoBChxcTkgGCcw
+2025-07-19 01:24:43,917 - vulnerable_token_creator - INFO - Выполняем initialize_mint с основным RPC endpoint https://solana-mainnet.g.alchemy.com/v2/6V3A2BMevi9OjWxIx8m-n
+2025-07-19 01:24:44,669 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: Attempt to debit an account but found no record of a prior credit
+2025-07-19 01:24:44,669 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:44,669 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://go.getblock.io/dd5ea400c7dc4adcb3f3d7e5cdf672d9
+2025-07-19 01:24:45,239 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:45,239 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:45,239 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://ancient-polished-silence.solana-mainnet.quiknode.pro/34292d2a868f0c1f3526c67b8ab3927010e77f57/
+2025-07-19 01:24:45,785 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:45,785 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:45,786 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet.solana.com
+2025-07-19 01:24:45,819 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:45,828 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:45,828 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:45,828 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://api.mainnet-beta.solana.com
+2025-07-19 01:24:46,206 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: SendTransactionPreflightFailureMessage { message: "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.", data: RpcSimulateTransactionResult(RpcSimulateTransactionResult { err: Some(AccountNotFound), logs: Some([]), accounts: None, units_consumed: Some(0), return_data: None }) }
+2025-07-19 01:24:46,206 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:46,206 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://solana-api.projectserum.com
+2025-07-19 01:24:51,279 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:56,326 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:56,327 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:56,327 - vulnerable_token_creator - INFO - Пробуем запасной endpoint https://rpc.ankr.com/solana
+2025-07-19 01:24:56,471 - vulnerable_token_creator - WARNING - Ошибка при получении minimum balance: 
+2025-07-19 01:24:56,602 - vulnerable_token_creator - ERROR - Ошибка при создании аккаунта: 
+2025-07-19 01:24:56,602 - vulnerable_token_creator - ERROR - Не удалось создать аккаунт для минта
+2025-07-19 01:24:56,602 - vulnerable_token_creator - ERROR - Все RPC endpoints недоступны для операции initialize_mint
+2025-07-19 01:24:56,602 - vulnerable_token_creator - ERROR - Не удалось инициализировать минт
+2025-07-19 01:24:56,602 - vulnerable_token_creator - ERROR - Не удалось создать токен VALXT
+2025-07-19 01:24:58,603 - vulnerable_token_creator - ERROR - Не удалось создать ни одного токена

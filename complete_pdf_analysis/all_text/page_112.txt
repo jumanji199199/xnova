@@ -1,0 +1,8 @@
+=== СТРАНИЦА 112 ===
+
+• How does cpi know which region to update?  
+• Search through MemoryRegions for matching virtual address 
+• Where does that virtual address came from? 
+• CallerAccount, and users have full control over VM heap
+Bug
+Missing check of guest address when updating MemoryRegion

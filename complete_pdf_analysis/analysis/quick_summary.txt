@@ -1,0 +1,29 @@
+=== БЫСТРАЯ СВОДКА АНАЛИЗА PDF ===
+
+Файл: Ginoah-pwning_blockchain_for_fun_and_profit.pdf
+Всего страниц: 165
+Извлечено изображений: 155
+Общая длина текста: 9,410 символов
+
+ТОП КЛЮЧЕВЫЕ СЛОВА:
+  account: 61
+  memory: 55
+  write: 25
+  u64: 23
+  exploit: 22
+  lamports: 18
+  read: 12
+  instruction: 10
+  program: 8
+  cell: 8
+  transaction: 4
+  buffer: 4
+  arbitrary: 3
+  solana: 2
+  blockchain: 2
+
+ТОП ТЕХНИКИ ЭКСПЛОЙТОВ:
+  1. arbitrary read
+
+ПРИМЕРЫ АДРЕСОВ ПАМЯТИ:
+  0xdeadbeaf

@@ -1,0 +1,9 @@
+=== СТРАНИЦА 7 ===
+
+Index
+• Basic Concept 
+• Legacy Model 
+• Direct Mapping 
+• New Model 
+• Bug 
+• Exploit

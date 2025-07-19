@@ -1,0 +1,4 @@
+=== СТРАНИЦА 24 ===
+
+Legacy Data Exposure
+Write permission check

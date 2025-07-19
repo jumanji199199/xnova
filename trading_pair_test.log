@@ -1,0 +1,154 @@
+2025-07-03 18:24:19,768 - INFO - [+] Инициализирован тестер торговых пар
+2025-07-03 18:24:19,769 - INFO -     Наш аккаунт: 8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q
+2025-07-03 18:24:19,769 - INFO -     Торговых пар: 8
+2025-07-03 18:24:19,769 - INFO -     Уникальных токенов: 16
+2025-07-03 18:24:19,769 - INFO - ================================================================================
+2025-07-03 18:24:19,769 - INFO - [!] КОМПЛЕКСНОЕ ТЕСТИРОВАНИЕ ТОРГОВЫХ ПАР
+2025-07-03 18:24:19,769 - INFO - ================================================================================
+2025-07-03 18:24:29,805 - ERROR - [-] Ошибка проверки баланса: 
+2025-07-03 18:24:29,805 - WARNING - [!] Низкий баланс: 0.000000000 SOL
+2025-07-03 18:24:29,805 - INFO - 
+[1/8] Тестирование Trading Pair 1
+2025-07-03 18:24:29,805 - INFO - [*] Анализ торговой пары: Trading Pair 1
+2025-07-03 18:24:29,805 - INFO -     Token A: J333LZ5UhEjwxb64dcD756viUFXr164dVNxQpXuMPH9V
+2025-07-03 18:24:29,805 - INFO -     Token B: 9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk
+2025-07-03 18:24:29,805 - INFO - [*] Анализ токена: J333LZ5UhEjwxb64dcD756viUFXr164dVNxQpXuMPH9V
+2025-07-03 18:24:30,865 - ERROR - [-] Ошибка анализа токена J333LZ5UhEjwxb64dcD756viUFXr164dVNxQpXuMPH9V: 
+2025-07-03 18:24:31,870 - INFO - [*] Анализ токена: 9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk
+2025-07-03 18:24:41,877 - ERROR - [-] Ошибка анализа токена 9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk: 
+2025-07-03 18:24:41,877 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 1
+2025-07-03 18:24:41,877 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:24:42,383 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 1
+2025-07-03 18:24:42,383 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:24:42,896 - INFO - [*] Тест sandwich эксплойта на Trading Pair 1
+2025-07-03 18:24:42,896 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:24:43,391 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 1
+2025-07-03 18:24:43,391 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:24:43,891 - INFO - 
+[2/8] Тестирование Trading Pair 2
+2025-07-03 18:24:43,891 - INFO - [*] Анализ торговой пары: Trading Pair 2
+2025-07-03 18:24:43,891 - INFO -     Token A: 9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2
+2025-07-03 18:24:43,891 - INFO -     Token B: 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+2025-07-03 18:24:43,891 - INFO - [*] Анализ токена: 9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2
+2025-07-03 18:24:53,893 - ERROR - [-] Ошибка анализа токена 9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2: 
+2025-07-03 18:24:54,895 - INFO - [*] Анализ токена: 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+2025-07-03 18:24:54,967 - ERROR - [-] Ошибка анализа токена 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN: 
+2025-07-03 18:24:54,967 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 2
+2025-07-03 18:24:54,967 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:24:55,481 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 2
+2025-07-03 18:24:55,481 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:24:55,988 - INFO - [*] Тест sandwich эксплойта на Trading Pair 2
+2025-07-03 18:24:55,988 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:24:56,489 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 2
+2025-07-03 18:24:56,489 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:24:56,991 - INFO - 
+[3/8] Тестирование Trading Pair 3
+2025-07-03 18:24:56,991 - INFO - [*] Анализ торговой пары: Trading Pair 3
+2025-07-03 18:24:56,991 - INFO -     Token A: Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw
+2025-07-03 18:24:56,991 - INFO -     Token B: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
+2025-07-03 18:24:56,991 - INFO - [*] Анализ токена: Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw
+2025-07-03 18:25:06,996 - ERROR - [-] Ошибка анализа токена Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw: 
+2025-07-03 18:25:08,006 - INFO - [*] Анализ токена: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
+2025-07-03 18:25:08,052 - ERROR - [-] Ошибка анализа токена 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump: 
+2025-07-03 18:25:08,053 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 3
+2025-07-03 18:25:08,053 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:25:08,558 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 3
+2025-07-03 18:25:08,558 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:25:09,060 - INFO - [*] Тест sandwich эксплойта на Trading Pair 3
+2025-07-03 18:25:09,060 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:25:09,567 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 3
+2025-07-03 18:25:09,567 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:25:10,068 - INFO - 
+[4/8] Тестирование Trading Pair 4
+2025-07-03 18:25:10,068 - INFO - [*] Анализ торговой пары: Trading Pair 4
+2025-07-03 18:25:10,068 - INFO -     Token A: FRhB8L7Y9Qq41qZXYLtC2nw8An1RJfLLxRF2x9RwLLMo
+2025-07-03 18:25:10,068 - INFO -     Token B: 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr
+2025-07-03 18:25:10,068 - INFO - [*] Анализ токена: FRhB8L7Y9Qq41qZXYLtC2nw8An1RJfLLxRF2x9RwLLMo
+2025-07-03 18:25:20,072 - ERROR - [-] Ошибка анализа токена FRhB8L7Y9Qq41qZXYLtC2nw8An1RJfLLxRF2x9RwLLMo: 
+2025-07-03 18:25:21,072 - INFO - [*] Анализ токена: 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr
+2025-07-03 18:25:21,120 - ERROR - [-] Ошибка анализа токена 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr: 
+2025-07-03 18:25:21,120 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 4
+2025-07-03 18:25:21,120 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:25:21,631 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 4
+2025-07-03 18:25:21,631 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:25:22,134 - INFO - [*] Тест sandwich эксплойта на Trading Pair 4
+2025-07-03 18:25:22,134 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:25:22,646 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 4
+2025-07-03 18:25:22,646 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:25:23,154 - INFO - 
+[5/8] Тестирование Trading Pair 5
+2025-07-03 18:25:23,154 - INFO - [*] Анализ торговой пары: Trading Pair 5
+2025-07-03 18:25:23,154 - INFO -     Token A: 22WrmyTj8x2TRVQen3fxxi2r4Rn619cAucfRsmhVJffodSp
+2025-07-03 18:25:23,154 - INFO -     Token B: ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY
+2025-07-03 18:25:23,154 - INFO - [*] Анализ токена: 22WrmyTj8x2TRVQen3fxxi2r4Rn619cAucfRsmhVJffodSp
+2025-07-03 18:25:23,154 - ERROR - [-] Ошибка анализа токена 22WrmyTj8x2TRVQen3fxxi2r4Rn619cAucfRsmhVJffodSp: String is the wrong size
+2025-07-03 18:25:24,162 - INFO - [*] Анализ токена: ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY
+2025-07-03 18:25:34,170 - ERROR - [-] Ошибка анализа токена ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY: 
+2025-07-03 18:25:34,170 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 5
+2025-07-03 18:25:34,171 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:25:34,677 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 5
+2025-07-03 18:25:34,677 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:25:35,187 - INFO - [*] Тест sandwich эксплойта на Trading Pair 5
+2025-07-03 18:25:35,187 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:25:35,698 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 5
+2025-07-03 18:25:35,698 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:25:36,202 - INFO - 
+[6/8] Тестирование Trading Pair 6
+2025-07-03 18:25:36,202 - INFO - [*] Анализ торговой пары: Trading Pair 6
+2025-07-03 18:25:36,202 - INFO -     Token A: Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp
+2025-07-03 18:25:36,202 - INFO -     Token B: Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk
+2025-07-03 18:25:36,202 - INFO - [*] Анализ токена: Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp
+2025-07-03 18:25:46,214 - ERROR - [-] Ошибка анализа токена Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp: 
+2025-07-03 18:25:47,221 - INFO - [*] Анализ токена: Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk
+2025-07-03 18:25:47,259 - ERROR - [-] Ошибка анализа токена Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk: 
+2025-07-03 18:25:47,259 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 6
+2025-07-03 18:25:47,259 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:25:47,763 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 6
+2025-07-03 18:25:47,763 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:25:48,266 - INFO - [*] Тест sandwich эксплойта на Trading Pair 6
+2025-07-03 18:25:48,266 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:25:48,782 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 6
+2025-07-03 18:25:48,782 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:25:49,285 - INFO - 
+[7/8] Тестирование Trading Pair 7
+2025-07-03 18:25:49,285 - INFO - [*] Анализ торговой пары: Trading Pair 7
+2025-07-03 18:25:49,285 - INFO -     Token A: 4qQM2x2pfhU3ToscAqkQxTfhTm7DmJe8LGWU9kvqeNH4
+2025-07-03 18:25:49,285 - INFO -     Token B: FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump
+2025-07-03 18:25:49,285 - INFO - [*] Анализ токена: 4qQM2x2pfhU3ToscAqkQxTfhTm7DmJe8LGWU9kvqeNH4
+2025-07-03 18:25:59,287 - ERROR - [-] Ошибка анализа токена 4qQM2x2pfhU3ToscAqkQxTfhTm7DmJe8LGWU9kvqeNH4: 
+2025-07-03 18:26:00,295 - INFO - [*] Анализ токена: FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump
+2025-07-03 18:26:00,337 - ERROR - [-] Ошибка анализа токена FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump: 
+2025-07-03 18:26:00,337 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 7
+2025-07-03 18:26:00,337 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:26:00,849 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 7
+2025-07-03 18:26:00,849 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:26:01,350 - INFO - [*] Тест sandwich эксплойта на Trading Pair 7
+2025-07-03 18:26:01,350 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:26:01,859 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 7
+2025-07-03 18:26:01,859 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:26:02,368 - INFO - 
+[8/8] Тестирование Trading Pair 8
+2025-07-03 18:26:02,368 - INFO - [*] Анализ торговой пары: Trading Pair 8
+2025-07-03 18:26:02,368 - INFO -     Token A: 5wNu5QhdpRGrL37ffcd6TMMqZugQgxwafgz477rShtHy
+2025-07-03 18:26:02,368 - INFO -     Token B: Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump
+2025-07-03 18:26:02,368 - INFO - [*] Анализ токена: 5wNu5QhdpRGrL37ffcd6TMMqZugQgxwafgz477rShtHy
+2025-07-03 18:26:12,383 - ERROR - [-] Ошибка анализа токена 5wNu5QhdpRGrL37ffcd6TMMqZugQgxwafgz477rShtHy: 
+2025-07-03 18:26:13,383 - INFO - [*] Анализ токена: Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump
+2025-07-03 18:26:13,429 - ERROR - [-] Ошибка анализа токена Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump: 
+2025-07-03 18:26:13,429 - INFO - [*] Тест arbitrage эксплойта на Trading Pair 8
+2025-07-03 18:26:13,429 - INFO - [+] arbitrage тест завершен: SUCCESS
+2025-07-03 18:26:13,930 - INFO - [*] Тест flash_loan эксплойта на Trading Pair 8
+2025-07-03 18:26:13,930 - INFO - [+] flash_loan тест завершен: SUCCESS
+2025-07-03 18:26:14,431 - INFO - [*] Тест sandwich эксплойта на Trading Pair 8
+2025-07-03 18:26:14,431 - INFO - [+] sandwich тест завершен: SUCCESS
+2025-07-03 18:26:14,933 - INFO - [*] Тест reentrancy эксплойта на Trading Pair 8
+2025-07-03 18:26:14,933 - INFO - [+] reentrancy тест завершен: FAILED
+2025-07-03 18:26:15,434 - INFO - ================================================================================
+2025-07-03 18:26:15,434 - INFO - [=] РЕЗУЛЬТАТЫ КОМПЛЕКСНОГО ТЕСТИРОВАНИЯ
+2025-07-03 18:26:15,434 - INFO - [+] Торговых пар: 8
+2025-07-03 18:26:15,434 - INFO - [+] Всего тестов: 32
+2025-07-03 18:26:15,434 - INFO - [+] Успешных тестов: 24
+2025-07-03 18:26:15,434 - INFO - [%] Процент успеха: 75.0%
+2025-07-03 18:26:15,434 - INFO - [$] Потенциальная прибыль: 0.064000 SOL
+2025-07-03 18:26:15,434 - INFO - [T] Время выполнения: 115.66s
+2025-07-03 18:26:15,434 - INFO - ================================================================================

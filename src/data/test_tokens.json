@@ -1,0 +1,47 @@
+[
+  {
+    "mint_address": "EUU3QLhwi5zqDGEWPiGjXtr63oD7BL8zHStTNJ2cstaL",
+    "token_account": "HJgHmF6Jsnz73XtXMiyPaegpWw7764LtRjnRxmS4wTB5",
+    "owner_address": "8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q",
+    "name": "Vulnerability Test Token 1",
+    "symbol": "VTEST1",
+    "description": "SPL токен для тестирования уязвимостей типа Account",
+    "vulnerability_types": ["token_account_manipulation", "account_exploit", "insufficient_checks"]
+  },
+  {
+    "mint_address": "BzBgmykB3D35SttCsra93AnVPdCHFgtw2J5o7rKGL8UM",
+    "token_account": "6dLN8QRTpcqPqdUAqZnfyUpjAiDa8xjpUtdAd6HzLY4V",
+    "owner_address": "8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q",
+    "name": "Memory Vulnerability Token",
+    "symbol": "MEMVULN",
+    "description": "SPL токен для тестирования уязвимостей памяти",
+    "vulnerability_types": ["memory_corruption", "arbitrary_read_write", "cell_manipulation"]
+  },
+  {
+    "mint_address": "8NZX4Jg1dyHvVuvqZ4AyGJ4FpJ2qDGrCGMY3qb3Y4CHF",
+    "token_account": "CT91NMasvkh36n9aSmP1xVa4DzxzxAxXDYXDbZWPKHbL",
+    "owner_address": "8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q",
+    "name": "Reentrancy Test Token",
+    "symbol": "REENT",
+    "description": "SPL токен для тестирования уязвимостей reentrancy",
+    "vulnerability_types": ["reentrancy", "callback_manipulation", "cpi_reentrancy"]
+  },
+  {
+    "mint_address": "3gZAbD3UttUMJXixrKzHFJNVnhChysVF8GG3kX9mZAfA",
+    "token_account": "BPXt2KvPeNTtFPWQPcNEdjA7M1x9W4B2MJcEEY9Vuh1m",
+    "owner_address": "8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q",
+    "name": "Program Exploit Token",
+    "symbol": "PRGEXP",
+    "description": "SPL токен для тестирования program уязвимостей",
+    "vulnerability_types": ["program_exploit", "insufficient_validation", "program_account_exploit"]
+  },
+  {
+    "mint_address": "9dhDF9jfN24vrT1BbBbwB2DhxZqbKtpkLFVzYwKVeTeK",
+    "token_account": "7J8tFSm6xGhzqbnu1L5WNnYczNL8VjTBxXhQopqrJQMP",
+    "owner_address": "8nQE7NqRRDM1CtfiVkroK3CiMCeSCWzrzzt2zUqxsP8Q",
+    "name": "Validator Test Token",
+    "symbol": "VALDTR",
+    "description": "SPL токен для тестирования validator эксплойтов",
+    "vulnerability_types": ["validator_exploit", "consensus_manipulation", "gossip_protocol_exploit"]
+  }
+]

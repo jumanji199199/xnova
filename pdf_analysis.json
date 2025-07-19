@@ -1,0 +1,308 @@
+{
+  "pdf_info": {
+    "filename": "Ginoah-pwning_blockchain_for_fun_and_profit.pdf",
+    "total_pages": 165,
+    "relevant_pages_count": 36
+  },
+  "relevant_pages": [
+    {
+      "page_num": 4,
+      "relevance_score": 5,
+      "keywords": [],
+      "text": "Blockchain\n",
+      "image_count": 5
+    },
+    {
+      "page_num": 5,
+      "relevance_score": 4,
+      "keywords": [
+        "solana"
+      ],
+      "text": "Solana\n",
+      "image_count": 3
+    },
+    {
+      "page_num": 157,
+      "relevance_score": 4,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "0xdeadbeaf\nCell<u64>\nu64\nExploit\nArbitrary Read/Write\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 158,
+      "relevance_score": 4,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Cell<u64>\nu64\n0xdeadbeaf\nExploit\nArbitrary Read/Write\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 159,
+      "relevance_score": 4,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Cell<u64>\nu64\n0xdeadbeaf\nExploit\nArbitrary Read/Write\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 1,
+      "relevance_score": 3,
+      "keywords": [
+        "exploit",
+        "vulnerability",
+        "solana"
+      ],
+      "text": "Ginoah\nPwning Blockchain for Fun and Profit\nExploiting an RCE Vulnerability in the Solana validator\n",
+      "image_count": 0
+    },
+    {
+      "page_num": 9,
+      "relevance_score": 3,
+      "keywords": [],
+      "text": "Data Storage Model\nAccounts\nAccountSharedData\nAccountSharedData\nAccountSharedData\n",
+      "image_count": 3
+    },
+    {
+      "page_num": 109,
+      "relevance_score": 3,
+      "keywords": [],
+      "text": "Bug\nMissing check of guest address when updating MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 110,
+      "relevance_score": 3,
+      "keywords": [],
+      "text": "Bug\nMissing check of guest address when updating MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 111,
+      "relevance_score": 3,
+      "keywords": [],
+      "text": "Bug\nMissing check of guest address when updating MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 112,
+      "relevance_score": 3,
+      "keywords": [],
+      "text": "• How does cpi know which region to update?  \n• Search through MemoryRegions for matching virtual address \n• Where does that virtual address came from? \n• CallerAccount, and users have full control over VM heap\nBug\nMissing check of guest address when updating MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 7,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit",
+        "dex"
+      ],
+      "text": "Index\n• Basic Concept \n• Legacy Model \n• Direct Mapping \n• New Model \n• Bug \n• Exploit\n",
+      "image_count": 0
+    },
+    {
+      "page_num": 10,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "Data Storage Model\nAccounts\nAccountSharedData\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 80,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "New Memory Regions \nMemoryRegion.State\n• State\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 81,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "New Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• Is_Writable \n• bool\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 84,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "New Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write)\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 85,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "New Memory Regions \nMemoryRegion.State\n• State \n• Readable (read only) \n• Writable (read + write) \n• CoW (Handle Vector buffer reserve)\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 132,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "Bug\nOut of bound write\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 133,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "Bug\nOut of bound write\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 134,
+      "relevance_score": 2,
+      "keywords": [],
+      "text": "Bug\nOut of bound write\n",
+      "image_count": 2
+    },
+    {
+      "page_num": 141,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nPreparation\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 142,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nPreparation\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 143,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nPreparation\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 144,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nPreparation\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 145,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nChanging Data Pointer\nu64\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 146,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nChanging Data Pointer\nu64\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 147,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nMatching MemoryRegion\nu64\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 148,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nMatching MemoryRegion\nu64\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 149,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "u64\nExploit\nMatching MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 150,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "u64\nExploit\nMatching MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 151,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "u64\nExploit\nMatching MemoryRegion\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 152,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Exploit\nUpdating MemoryRegion.Host_Addr\nCell<u64>\nu64\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 153,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "u64\nExploit\nUpdating MemoryRegion.Host_Addr\nCell<u64>\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 154,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Cell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 155,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Cell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+      "image_count": 1
+    },
+    {
+      "page_num": 156,
+      "relevance_score": 2,
+      "keywords": [
+        "exploit"
+      ],
+      "text": "Cell<u64>\nu64\nExploit\nUpdating MemoryRegion.Host_Addr\n",
+      "image_count": 1
+    }
+  ]
+}

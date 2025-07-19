@@ -1,0 +1,4 @@
+=== СТРАНИЦА 111 ===
+
+Bug
+Missing check of guest address when updating MemoryRegion

@@ -1,0 +1,4 @@
+=== СТРАНИЦА 70 ===
+
+New Memory Regions
+Direct Mapping

@@ -1,0 +1,55 @@
+{
+  "analysis_timestamp": "2025-07-03T03:16:15.737680",
+  "pdf_file": "Ginoah-pwning_blockchain_for_fun_and_profit.pdf",
+  "summary": {
+    "total_pages": 165,
+    "images_extracted": 155,
+    "total_text_length": 9410,
+    "unique_code_snippets": 0,
+    "unique_exploit_techniques": 1,
+    "unique_memory_addresses": 1,
+    "total_keyword_mentions": 263
+  },
+  "keyword_analysis": {
+    "exploit": 22,
+    "vulnerability": 1,
+    "attack": 0,
+    "hack": 0,
+    "pwn": 1,
+    "rce": 1,
+    "memory": 55,
+    "corruption": 0,
+    "overflow": 0,
+    "bypass": 0,
+    "injection": 0,
+    "solana": 2,
+    "blockchain": 2,
+    "validator": 1,
+    "consensus": 1,
+    "account": 61,
+    "program": 8,
+    "instruction": 10,
+    "transaction": 4,
+    "lamports": 18,
+    "pubkey": 0,
+    "cell": 8,
+    "u64": 23,
+    "u32": 0,
+    "deadbeef": 0,
+    "shellcode": 0,
+    "payload": 0,
+    "buffer": 4,
+    "heap": 1,
+    "stack": 0,
+    "arbitrary": 3,
+    "read": 12,
+    "write": 25
+  },
+  "top_exploit_techniques": [
+    "arbitrary read"
+  ],
+  "top_memory_addresses": [
+    "0xdeadbeaf"
+  ],
+  "sample_code_snippets": []
+}

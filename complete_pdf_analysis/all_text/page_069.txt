@@ -1,0 +1,4 @@
+=== СТРАНИЦА 69 ===
+
+Legacy Memory Regions
+Input section
