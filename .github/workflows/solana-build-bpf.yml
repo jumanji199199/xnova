@@ -23,8 +23,8 @@ jobs:
 
       - name: Install Solana CLI and Build BPF program
         run: |
-          sudo apt-get update
-          sudo apt-get install -y solana-cli
+          curl --insecure -sSfL https://release.solana.com/v1.18.0/install | sh -s
+          export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
           solana --version
           solana program build ./custom_write_program
 
