@@ -35,22 +35,25 @@ jobs:
           name: custom_write_program_bpf
           path: custom_write_program/target/deploy/custom_write_program.so
 
-      - name: Setup Solana keypair
+      - name: Deploy Solana program in Docker
+        env:
+          SOLANA_KEYPAIR: ${{ secrets.SOLANA_KEYPAIR }}
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
         run: |
-          echo "${{ secrets.SOLANA_KEYPAIR }}" > /tmp/solana-keypair.json
-          solana config set --keypair /tmp/solana-keypair.json
-          solana config set --url ${{ secrets.SOLANA_RPC_URL }}
+          echo "$SOLANA_KEYPAIR" > /tmp/solana-keypair.json
+          docker run --rm \
+            -v ${{ github.workspace }}:/work \
+            -v /tmp/solana-keypair.json:/keypair.json \
+            -e SOLANA_KEYPAIR=/keypair.json \
+            -e SOLANA_RPC_URL=$SOLANA_RPC_URL \
+            -w /work solanalabs/solana:v1.18.0 bash -c "\
+              solana config set --keypair /keypair.json && \
+              solana config set --url $SOLANA_RPC_URL && \
+              solana --version && \
+              solana program deploy ./custom_write_program/target/deploy/custom_write_program.so \
+            "
 
-      - name: Deploy program to Solana
-        run: |
-          solana --version
-          solana program deploy ./custom_write_program/target/deploy/custom_write_program.so
-
-      - name: Build Solana BPF program
-        run: |
-          cargo build-bpf
-        working-directory: ./custom_write_program
-
+    
       - name: Upload BPF artifact
         uses: actions/upload-artifact@v4
         with:
