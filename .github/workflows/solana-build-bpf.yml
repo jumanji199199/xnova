@@ -24,14 +24,10 @@ jobs:
           echo "$HOME/.local/share/solana/install/active_release/bin" >> $GITHUB_PATH
 
       - name: Install BPF tools
-        run: |
-          sudo apt-get update && sudo apt-get install -y llvm clang pkg-config
-          cargo install --locked --force cargo-build-bpf
+        run: sudo apt-get update && sudo apt-get install -y llvm clang pkg-config
 
       - name: Build Solana BPF program
-        run: |
-          cargo build-bpf
-        working-directory: ./custom_write_program
+        run: solana program build ./custom_write_program
 
       - name: Upload BPF artifact
         uses: actions/upload-artifact@v4
