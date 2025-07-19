@@ -18,16 +18,15 @@ jobs:
           toolchain: stable
           override: true
 
-      - name: Install Solana CLI
-        run: |
-          sh -c "$(curl -sSfL https://release.solana.com/v1.18.0/install)"
-          echo "$HOME/.local/share/solana/install/active_release/bin" >> $GITHUB_PATH
-
       - name: Install BPF tools
         run: sudo apt-get update && sudo apt-get install -y llvm clang pkg-config
 
-      - name: Build Solana BPF program
-        run: solana program build ./custom_write_program
+      - name: Install and Build Solana BPF program
+        run: |
+          sh -c "$(curl -sSfL https://release.solana.com/v1.18.0/install)"
+          export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
+          solana --version
+          solana program build ./custom_write_program
 
       - name: Upload BPF artifact
         uses: actions/upload-artifact@v4
